@@ -26,7 +26,7 @@ I am open to academic collaborations of all forms. Feel free to reach out via em
 
 # 🔥 News
 - *2025.02*: Joined the Institute for Network Sciences and Cyberspace at Tsinghua as a faculty. 
-- *2024.10*: &nbsp;🎉🎉 Two papers accpeted in NDSS 2025. 
+- *2024.10*: &nbsp;🎉🎉 Two papers accpeted by NDSS 2025. 
 
 # 📝 Publications 
 
