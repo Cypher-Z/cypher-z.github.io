@@ -19,9 +19,11 @@ redirect_from:
 
 # 🧑‍💻 About Me
 
-I am a Research Assistant Professor of [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn), Tsinghua University. My research focuses on enhancing the security of critical network infrastructures. I am broadly interested in network security, cellular system security, and data-driven approaches to security. My recent work investigates security vulnerabilities in 4G/5G cellular networks and the Public Key Infrastructure (PKI). Prior to my current position, I was a postdoctoral fellow at Tsinghua University from 2022 to 2024, co-advised by Professor Haixin Duan. I received my Doctoral degree in Computer Science and Technology at Tsinghua in 2022, and my Bachelor degree in Fundamental Science of Mathematics and Physics at Tsinghua in 2017.
+I am an Assistant Research Professor of [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn), Tsinghua University. My research focuses on enhancing the security of critical network infrastructures. I am broadly interested in network security, cellular system security, and data-driven approaches to security. My recent work investigates security vulnerabilities in 4G/5G cellular networks and the Public Key Infrastructure (PKI). Prior to my current position, I was a postdoctoral fellow at Tsinghua University from 2022 to 2024, co-advised by Professor [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). I received my Doctoral degree in Computer Science and Technology at Tsinghua in 2022, and my Bachelor degree in Fundamental Science of Mathematics and Physics at Tsinghua in 2017.
 
-I am open to academic collaborations of all forms. Feel free to reach out via email: zhangyiming@tsinghua.edu.cn.
+📣 **Hiring: our group is continuously looking for highly motivated PhD/Master/undergraduate students and research interns, please free to reach out via email (zhangyiming@tsinghua.edu.cn)**. 
+
+I also welcome academic collaborations in any form—please don’t hesitate to get in touch.
 
 
 # 🔥 News
