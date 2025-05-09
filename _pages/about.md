@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧑‍💻 About Me
 
-I am an Assistant Research Professor of [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn), Tsinghua University. My research focuses on enhancing the security of critical network infrastructures. I am broadly interested in network security, cellular system security, and data-driven approaches to security. My recent work investigates security vulnerabilities in 4G/5G cellular networks and the Public Key Infrastructure (PKI). Prior to my current position, I was a postdoctoral fellow at Tsinghua University from 2022 to 2024, co-advised by Professor [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). I received my Doctoral degree in Computer Science and Technology at Tsinghua in 2022, and my Bachelor degree in Fundamental Science of Mathematics and Physics at Tsinghua in 2017.
+I am an Research Assistant Professor of [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn), Tsinghua University. My research focuses on enhancing the security of critical network infrastructures. I am broadly interested in network security, cellular system security, and data-driven approaches to security. My recent work investigates security vulnerabilities in 4G/5G cellular networks and the Public Key Infrastructure (PKI). Prior to my current position, I was a postdoctoral fellow at Tsinghua University from 2022 to 2024, co-advised by Professor [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/). I received my Doctoral degree in Computer Science and Technology at Tsinghua in 2022, and my Bachelor degree in Fundamental Science of Mathematics and Physics at Tsinghua in 2017.
 
 📣 **Hiring: our group is continuously looking for highly motivated PhD/Master/undergraduate students and research interns, please free to reach out via email (zhangyiming@tsinghua.edu.cn)**. 
 
@@ -27,6 +27,7 @@ I also welcome academic collaborations in any form—please don’t hesitate to 
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Two papers accpeted by ACM IMC 2025.
 - *2025.02*: Joined the Institute for Network Sciences and Cyberspace at Tsinghua as a faculty. 
 - *2024.10*: &nbsp;🎉🎉 Two papers accpeted by NDSS 2025. 
 
@@ -36,6 +37,9 @@ I also welcome academic collaborations in any form—please don’t hesitate to 
 
 ## 2025
 
+- [Chaos in the Chain: Evaluate Deployment and Construction Compliance of Web PKI Certificate Chain]. Jia Yao, **Yiming Zhang#**, Baojun Liu#, Zhan Liu, Mingming Zhang, Haixin Duan, **ACM IMC 2025** (CCF-B).
+- [Dive into the cloud: Unveiling the (Ab)usage of Serverless Cloud Function in the Wild]. Yijing Liu, Mingxuan Liu, **Yiming Zhang#**, Baojun Liu#, Jia Zhang, Geng Hong, Haixin Duan, Min Yang, **ACM IMC 2025** (CCF-B).
+- [NOKEScam: Understanding and Rectifying Non-Sense Keywords Spear Scam in Search Engines]. Mingxuan Liu, Yunyi Zhang, Lijie Wu, Baojun Liu, Geng Hong, **Yiming Zhang**, Hui Jiang, Jia Zhang, Haixin Duan, Min Zhang, Wei Guan, Fan Shi, Min Yang. **USENIX Security 2025** (CCF-A, Big4).
 - [Invade the Walled Garden: Evaluating GTP Security in Cellular Networks]. **Yiming Zhang**, Tao Wan, Yaru Yang, Haixin Duan, Yichen Wang, Jianjun Chen, Zixiang Wei, Xiang Li, **IEEE SP 2025**  (CCF-A, Big4).
 - [Automatic Insecurity: Exploring Email Auto-configuration in the Wild](files/ndss25-email.pdf). Shushang Wen, **Yiming Zhang#**, Yuxiang Shen, Bingyu Li, Haixin Duan, Jingqiang Lin#, **NDSS 2025** (CCF-A, Big4).
 - [Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange](files/ndss25-http2.pdf). Pinji Chen, Jianjun Chen, Mingming Zhang, Qi Wang, **Yiming Zhang**, Haixin Duan, Mingwei Xu, Haixin Duan, **NDSS 2025** (CCF-A, Big4).
