@@ -82,6 +82,8 @@ I also welcome academic collaborations in any form—please don’t hesitate to 
 - *2013.08 - 2017.06*, B.Sc., Department of Physics (Fundamental Science of Mathematics and Physics), Tsinghua University. 
 
 # 💬 Invited Talks
+- *2025.06*， 5G Security Research, Shenzhen, China.
+- *2025.05*, Invade the Walled Garden: Evaluating GTP Security in Cellular Networks (oral presentation at IEEE SP 2025), San Francisco, USA.
 - *2024.08*, Into the Dark: Unveiling Internal Site Search Abused for BlackHat SEO (oral presentation at USENIX 2024), Philadelphia, USA.
 - *2024.06*, 5G security from a network evolution perspective: practical challenges and research progress, USTC, Hefei, China.
 - *2024.02*, Understanding the Implementation and Security Implications of Protective DNS Services (oral presentation at NDSS 2024), San Diego, USA.
@@ -91,7 +93,9 @@ I also welcome academic collaborations in any form—please don’t hesitate to 
 - *2020.11*, Lies in the Air: Characterizing Fake-base-station Spam Ecosystem in China (oral presentation at CCS 2020). Online.
 
 # 📝 Services
+- Technical Program Committee, ACM IMC 2026 
+- Artificial Evaluate Committee, NDSS 2026
 - Artificial Evaluate Committee, USENIX Security 2025
 - Artificial Evaluate Committee, NDSS 2025
 - Artificial Evaluate Committee, CoNEXT 2023
-- Technical Committee, Securecomm 2023
+- Technical Program Committee, Securecomm 2023
