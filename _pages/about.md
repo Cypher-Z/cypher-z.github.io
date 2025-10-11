@@ -38,8 +38,8 @@ I also welcome academic collaborations in any form—please don’t hesitate to 
 (*: Equal Contribution; #: Corresponding Author)
 
 ## 2025
-- [Analyzing Compliance and Complications of Integrating  Internationalized X.509 Certificates]. Mingming Zhang, Jinfeng Guo, Yiming Zhang#, Shenglin Zhang, Baojun Liu, Hanqing Zhao, Xiang Li, Haixin Duan,  **ACM IMC 2025** (CCF-B).
-- [Chaos in the Chain: Evaluate Deployment and Construction Compliance of Web PKI Certificate Chain]. Jia Yao, **Yiming Zhang#**, Baojun Liu#, Zhan Liu, Mingming Zhang, Haixin Duan, **ACM IMC 2025** (CCF-B).
+- [Analyzing Compliance and Complications of Integrating  Internationalized X.509 Certificates](files/imc25-unicert.pdf). Mingming Zhang, Jinfeng Guo, **Yiming Zhang#**, Shenglin Zhang#, Baojun Liu, Hanqing Zhao, Xiang Li, Haixin Duan. **ACM IMC 2025** (CCF-B)
+- [Chaos in the Chain: Evaluate Deployment and Construction Compliance of Web PKI Certificate Chain](files/imc25-chain.pdf). Jia Yao, **Yiming Zhang#**, Baojun Liu#, Zhan Liu, Mingming Zhang, Haixin Duan, **ACM IMC 2025** (CCF-B).
 - [Dive into the cloud: Unveiling the (Ab)usage of Serverless Cloud Function in the Wild]. Yijing Liu, Mingxuan Liu, **Yiming Zhang#**, Baojun Liu#, Jia Zhang, Geng Hong, Haixin Duan, Min Yang, **ACM IMC 2025** (CCF-B).
 - [NOKEScam: Understanding and Rectifying Non-Sense Keywords Spear Scam in Search Engines](files/usenix25.pdf). Mingxuan Liu, Yunyi Zhang, Lijie Wu, Baojun Liu, Geng Hong, **Yiming Zhang**, Hui Jiang, Jia Zhang, Haixin Duan, Min Zhang, Wei Guan, Fan Shi, Min Yang. **USENIX Security 2025** (CCF-A, Big4).
 - [Invade the Walled Garden: Evaluating GTP Security in Cellular Networks](files/sp25.pdf). **Yiming Zhang**, Tao Wan, Yaru Yang, Haixin Duan, Yichen Wang, Jianjun Chen, Zixiang Wei, Xiang Li, **IEEE SP 2025**  (CCF-A, Big4).
@@ -71,6 +71,7 @@ I also welcome academic collaborations in any form—please don’t hesitate to 
 
 
 # 🎖 Honors and Awards
+- *2025*, ACM SIGSAC China Rising Star, ACM SIGSAC.
 - *2022*, Shuimu Tsinghua Scholar, Tsinghua University. 
 - *2022*, Outstanding Graduate of Computer Science and Technology, Tsinghua University.
 - *2022*, Best Student Paper Award, EthiCS 22 (Euro SP Workshop).
