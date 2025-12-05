@@ -27,6 +27,7 @@ I also welcome academic collaborations in any form—please don’t hesitate to 
 
 
 # 🔥 News
+- *2025.12*: Two papers accpeted by NDSS 2026.
 - *2025.08*: One paper accpeted by ACM IMC 2025.
 - *2025.07*: I will serve as a TPC member of ACM IMC 2026.
 - *2025.05*: Two papers accpeted by ACM IMC 2025.
@@ -36,6 +37,9 @@ I also welcome academic collaborations in any form—please don’t hesitate to 
 # 📝 Publications 
 
 (*: Equal Contribution; #: Corresponding Author)
+
+## 2026
+- [Small Cell, Big Risk: A Security Assessment of 4G LTE Femtocells in the Wild]. Yaru Yang, **Yiming Zhang#**, Tao Wan, Haixin Duan#, Deliang Chang, Yishen Li, Shujun Tang. **NDSS 2026** (CCF-A, Big4).
 
 ## 2025
 - [Analyzing Compliance and Complications of Integrating  Internationalized X.509 Certificates](files/imc25-unicert.pdf). Mingming Zhang, Jinfeng Guo, **Yiming Zhang#**, Shenglin Zhang#, Baojun Liu, Hanqing Zhao, Xiang Li, Haixin Duan. **ACM IMC 2025** (CCF-B)
