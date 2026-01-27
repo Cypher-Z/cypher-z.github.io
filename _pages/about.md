@@ -40,13 +40,14 @@ I also welcome academic collaborations in any form—please don’t hesitate to 
 (*: Equal Contribution; #: Corresponding Author)
 
 ## 2026
-- [Understanding the Status and Strategies of the Code Signing Abuse Ecosystem]. Hanqing Zhao, **Yiming Zhang**, Lingyun Ying, Mingming Zhang, Baojun Liu,Haixin Duan, Zi-Quan You, Shuhao Zhang. **NDSS 2026** (CCF-A, Big4).
-- [Small Cell, Big Risk: A Security Assessment of 4G LTE Femtocells in the Wild]. Yaru Yang, **Yiming Zhang#**, Tao Wan, Haixin Duan#, Deliang Chang, Yishen Li, Shujun Tang. **NDSS 2026** (CCF-A, Big4).
+- [Cracks in the Walled Garden: Dissecting the Gray-Market of Unauthorized iOS App Distribution via Ad Hoc Sideloading](files/usenix26-ios.pdf). Yijing Liu, **Yiming Zhang**, Baojun Liu, Haixin Duan. **USENIX Security 2026** (CCF-A, Big4).
+- [Understanding the Status and Strategies of the Code Signing Abuse Ecosystem](files/ndss26-codesign.pdf). Hanqing Zhao, **Yiming Zhang#**, Lingyun Ying#, Mingming Zhang, Baojun Liu,Haixin Duan, Zi-Quan You, Shuhao Zhang. **NDSS 2026** (CCF-A, Big4).
+- [Small Cell, Big Risk: A Security Assessment of 4G LTE Femtocells in the Wild](files/ndss26-femtocell.pdf). Yaru Yang, **Yiming Zhang#**, Tao Wan, Haixin Duan#, Deliang Chang, Yishen Li, Shujun Tang. **NDSS 2026** (CCF-A, Big4).
 
 ## 2025
 - [Analyzing Compliance and Complications of Integrating  Internationalized X.509 Certificates](files/imc25-unicert.pdf). Mingming Zhang, Jinfeng Guo, **Yiming Zhang#**, Shenglin Zhang#, Baojun Liu, Hanqing Zhao, Xiang Li, Haixin Duan. **ACM IMC 2025** (CCF-B)
 - [Chaos in the Chain: Evaluate Deployment and Construction Compliance of Web PKI Certificate Chain](files/imc25-chain.pdf). Jia Yao, **Yiming Zhang#**, Baojun Liu#, Zhan Liu, Mingming Zhang, Haixin Duan, **ACM IMC 2025** (CCF-B).
-- [Dive into the cloud: Unveiling the (Ab)usage of Serverless Cloud Function in the Wild]. Yijing Liu, Mingxuan Liu, **Yiming Zhang#**, Baojun Liu#, Jia Zhang, Geng Hong, Haixin Duan, Min Yang, **ACM IMC 2025** (CCF-B).
+- [Dive into the cloud: Unveiling the (Ab)usage of Serverless Cloud Function in the Wild](files/imc25-cloud.pdf). Yijing Liu, Mingxuan Liu, **Yiming Zhang#**, Baojun Liu#, Jia Zhang, Geng Hong, Haixin Duan, Min Yang, **ACM IMC 2025** (CCF-B).
 - [NOKEScam: Understanding and Rectifying Non-Sense Keywords Spear Scam in Search Engines](files/usenix25.pdf). Mingxuan Liu, Yunyi Zhang, Lijie Wu, Baojun Liu, Geng Hong, **Yiming Zhang**, Hui Jiang, Jia Zhang, Haixin Duan, Min Zhang, Wei Guan, Fan Shi, Min Yang. **USENIX Security 2025** (CCF-A, Big4).
 - [Invade the Walled Garden: Evaluating GTP Security in Cellular Networks](files/sp25.pdf). **Yiming Zhang**, Tao Wan, Yaru Yang, Haixin Duan, Yichen Wang, Jianjun Chen, Zixiang Wei, Xiang Li, **IEEE SP 2025**  (CCF-A, Big4).
 - [Automatic Insecurity: Exploring Email Auto-configuration in the Wild](files/ndss25-email.pdf). Shushang Wen, **Yiming Zhang#**, Yuxiang Shen, Bingyu Li, Haixin Duan, Jingqiang Lin#, **NDSS 2025** (CCF-A, Big4).
