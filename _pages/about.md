@@ -40,7 +40,7 @@ I also welcome academic collaborations in any form—please don’t hesitate to 
 (*: Equal Contribution; #: Corresponding Author)
 
 ## 2026
-- [Cracks in the Walled Garden: Dissecting the Gray-Market of Unauthorized iOS App Distribution via Ad Hoc Sideloading](files/usenix26-ios.pdf). Yijing Liu, **Yiming Zhang**, Baojun Liu, Haixin Duan. **USENIX Security 2026** (CCF-A, Big4).
+- [Cracks in the Walled Garden: Dissecting the Gray-Market of Unauthorized iOS App Distribution via Ad Hoc Sideloading] Yijing Liu, **Yiming Zhang**, Baojun Liu, Haixin Duan. **USENIX Security 2026** (CCF-A, Big4).
 - [Understanding the Status and Strategies of the Code Signing Abuse Ecosystem](files/ndss26-codesign.pdf). Hanqing Zhao, **Yiming Zhang#**, Lingyun Ying#, Mingming Zhang, Baojun Liu,Haixin Duan, Zi-Quan You, Shuhao Zhang. **NDSS 2026** (CCF-A, Big4).
 - [Small Cell, Big Risk: A Security Assessment of 4G LTE Femtocells in the Wild](files/ndss26-femtocell.pdf). Yaru Yang, **Yiming Zhang#**, Tao Wan, Haixin Duan#, Deliang Chang, Yishen Li, Shujun Tang. **NDSS 2026 (Distinguished Paper Award)** (CCF-A, Big4).
 
