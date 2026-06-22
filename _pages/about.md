@@ -40,6 +40,7 @@ I also welcome academic collaborations in any form—please don’t hesitate to 
 (*: Equal Contribution; #: Corresponding Author)
 
 ## 2026
+- [H3Act: Automated Measuring Semantic Conversion Anomalies of HTTP/3-to-HTTP/1.1 Translation in CDNs]. Qihang Peng, Siyuan Tian, Yongxin Qiu, Jinyang Huang, Yaru Yang, Xiang Li, Jia Zhang, **Yiming Zhang**, Haixin Duan, Yunsenxiao Lin, Shugen Chen, Liqun Yang. **USENIX Security 2026** (CCF-A, Big4).
 - [Cracks in the Walled Garden: Dissecting the Gray-Market of Unauthorized iOS App Distribution via Ad Hoc Sideloading](files/usenix26-ios.pdf) Yijing Liu, **Yiming Zhang**, Baojun Liu, Haixin Duan. **USENIX Security 2026** (CCF-A, Big4).
 - [Understanding the Status and Strategies of the Code Signing Abuse Ecosystem](files/ndss26-codesign.pdf). Hanqing Zhao, **Yiming Zhang#**, Lingyun Ying#, Mingming Zhang, Baojun Liu,Haixin Duan, Zi-Quan You, Shuhao Zhang. **NDSS 2026** (CCF-A, Big4).
 - [Small Cell, Big Risk: A Security Assessment of 4G LTE Femtocells in the Wild](files/ndss26-femtocell.pdf). Yaru Yang, **Yiming Zhang#**, Tao Wan, Haixin Duan#, Deliang Chang, Yishen Li, Shujun Tang. **NDSS 2026 (Distinguished Paper Award)** (CCF-A, Big4).
@@ -78,6 +79,7 @@ I also welcome academic collaborations in any form—please don’t hesitate to 
 
 
 # 🎖 Honors and Awards
+- *2026*, NDSS Distinguished Paper Award.
 - *2025*, ACM SIGSAC China Rising Star, ACM SIGSAC.
 - *2022*, Shuimu Tsinghua Scholar, Tsinghua University. 
 - *2022*, Outstanding Graduate of Computer Science and Technology, Tsinghua University.
@@ -102,8 +104,7 @@ I also welcome academic collaborations in any form—please don’t hesitate to 
 
 # 📝 Services
 - Technical Program Committee, ACM IMC 2026 
-- Artificial Evaluate Committee, NDSS 2026
+- Artificial Evaluate Committee, NDSS 2025-2027
 - Artificial Evaluate Committee, USENIX Security 2025
-- Artificial Evaluate Committee, NDSS 2025
 - Artificial Evaluate Committee, CoNEXT 2023
 - Technical Program Committee, Securecomm 2023
